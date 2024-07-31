@@ -1,0 +1,4 @@
+-- read ejs docs with express sessions
+-- sortable js
+-- multer upload
+-- docker file creation with pnpm
