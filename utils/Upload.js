@@ -1,7 +1,7 @@
 import multer from "multer";
 import path from "path";
 import { fileURLToPath } from "url";
-
+import expressAsyncHandler from "express-async-handler";
 //image upload
 const __filename = fileURLToPath(import.meta.url); //getting the current dir of the this file
 const __dirname = path.dirname(__filename); //getting the parent directory of the current file
